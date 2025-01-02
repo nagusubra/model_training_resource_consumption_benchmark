@@ -1,6 +1,6 @@
 # Benchmarking Resource Consumption to Train Leading AI Models 📋
 
-![Alt text](/Benchmarking%20Resource%20Consumption%20to%20Train%20Leading%20AI%20Models.png)
+![Alt text](/images/Benchmarking%20Resource%20Consumption%20to%20Train%20Leading%20AI%20Models.png)
 
 Tech benchmarks are exciting — we love seeing LLMs get smarter, faster, and more versatile with every iteration. But while we celebrate the breakthroughs, it’s important to remember the staggering amount of resources required to train these models. Imagine a city’s worth of power, water, and more going into each cycle of training. That’s the scale we’re talking about here.
 
@@ -31,13 +31,13 @@ In the next sections, I’ll break down the numbers, discuss trends, and explore
 For this comparison, I wasn’t able to obtain data on water and land consumption, but I plan to include it in future versions. However, I’ve researched and estimated the power consumption and carbon footprint associated with model training.
 
 
-![alt text](/Count%20of%20GPU%20Used%20for%20Model%20Training.png)
+![alt text](/graphs/Count%20of%20GPU%20Used%20for%20Model%20Training.png)
 
-![alt text](/Estimated%20-%20Total%20Power%20Consumption%20for%20Training%20(GWh).png)
+![alt text](/graphs/Estimated%20-%20Total%20Power%20Consumption%20for%20Training%20(GWh).png)
 
-![alt text](/Estimated%20-%20Total%20Power%20Cost%20for%20Training%20(USD%20Millions).png)
+![alt text](/graphs/Estimated%20-%20Total%20Power%20Cost%20for%20Training%20(USD%20Millions).png)
 
-![alt text](/Estimated%20-%20Carbon%20Footprint%20for%20Training%20(Tonnes%20CO₂e).png)
+![alt text](/graphs/Estimated%20-%20Carbon%20Footprint%20for%20Training%20(Tonnes%20CO₂e).png)
 
 The race to train the most powerful AI models has often come with a hefty price tag — both in terms of computational resources and environmental impact. But amidst the giants of Meta’s LLaMA 3.1 and OpenAI’s GPT-4, there’s a shining example of efficiency: DeepSeek V3. This model stands out not only for its performance but for how economically it was trained, proving that smarter and power-efficient models are possible in the future of AI development.
 
