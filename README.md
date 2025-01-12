@@ -49,6 +49,8 @@ DeepSeek V3 redefines what’s possible in AI by combining exceptional performan
 
 Mistral NeMo is another trailblazer in efficiency. Trained with only 3,072 NVIDIA H100 GPUs — just 12% of what Meta and OpenAI required — its estimated power cost was similarly low at $470K.
 
+NVIDIA Nemotron strikes a middle ground, employing 6,144 H100 GPUs with training power costs totaling $1.2 million. While more economical than LLaMA 3.1 or GPT-4, it remains less efficient than DeepSeek or Mistral in terms of resource and cost optimization.
+
 The total training budget tells an even more transformative story: DeepSeek V3 came in at $5.576 million, while Mistral NeMo is estimated at $4.42 million — just a fraction of the billions spent by larger players. These models not only set new benchmarks for performance but also prove that the future of AI can be smarter, smaller, and more power-efficient.
 
 
@@ -65,3 +67,5 @@ The evolution of AI doesn’t have to be fueled by ever-increasing consumption. 
 Models compared v1: DeepSeek V3, Llama 3.1, and GPT 4.
 
 Models compared v2: DeepSeek V3, Mistral NeMo, Llama 3.1, and GPT 4.
+
+Models compared v3: NVIDIA Nemotron-4, DeepSeek V3, Mistral NeMo, Llama 3.1, and GPT 4.
